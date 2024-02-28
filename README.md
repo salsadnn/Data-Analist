@@ -3,12 +3,12 @@ This is a DICODING data analyst project assignment entitled Learning Data Analys
 Below are the steps before creating a Dashboard
 ## 1. Processing data
     This data processing is carried out in several steps, namely:
-    ### 1. Data Wrangling
-          ###1). Gathering data
-          ###2). Assessing data
-          ###3). Cleaning data
-    ### 2. Exploratory Data Analysis
-    ### 3. Visualization & Explanatory Analysis
+    1. Data Wrangling
+        1). Gathering data
+        2). Assessing data
+        3). Cleaning data
+    2. Exploratory Data Analysis
+    3. Visualization & Explanatory Analysis
 ## 2. Dashboard Creation
 ## To be able to see the projects that have been worked on, you can follow the steps below:
 ### 1. Project in Notebook
