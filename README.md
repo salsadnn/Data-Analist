@@ -23,5 +23,5 @@ Below are the steps before creating a Dashboard
       3. install the library if you don't have a library in python, the library has been provided in the reqirements.txt file
       4. Navigate to the Project Directory example 'cd streamlit-dashboard'
       5. Run Streamlit by typing the following command in the terminal or command prompt: 'streamlit run nama_file.py'
-    Below are some examples of dashboard displays
-    <img width="925" alt="Data 1" src="https://github.com/salsadnn/Data-Analist/assets/159113713/7725e41a-b1e6-47c6-ae42-84bc14717489">
+    Below are some examples of dashboard displays    
+<img width="925" alt="Data 1" src="https://github.com/salsadnn/Data-Analist/assets/159113713/7725e41a-b1e6-47c6-ae42-84bc14717489">
