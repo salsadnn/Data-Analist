@@ -1,4 +1,4 @@
-<img width="925" alt="Data 1" src="https://github.com/salsadnn/Data-Analist/assets/159113713/c4c30134-1572-4891-baf3-19508aca55a6">#FINAL PROJECT DATA ANALIST
+
 This is a DICODING data analyst project assignment entitled Learning Data Analysis with Python, where the assignment is to create a dashboard in Streamlit Cloud, and I have created the dashboard and can click this link https://sepeda-rental.streamlit.app/
 Below are the steps before creating a Dashboard
 ##1. Processing data
