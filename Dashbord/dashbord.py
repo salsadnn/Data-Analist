@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded")
 
 # Load data
-df = pd.read_csv('D:\Kuliah\Bangkit\Dashbord\day.csv')
+df = pd.read_csv('Dashbord/day.csv')
 df['dteday'] = pd.to_datetime(df['dteday'])  # Convert 'dteday' to datetime
 #animasi
 def load_lottieurl(url):
@@ -45,7 +45,7 @@ min_date = df['dteday'].min().date()
 max_date = df['dteday'].max().date()
 with st.sidebar:
     st.title('Bicycle Rental Data 🚲')
-    st.image("Image\salsa.jpg")
+    st.image("Dashbord/Image/salsa.jpg")
     # Input tanggal untuk rentang waktu
     selected_dates = st.date_input(
         label='Pilih Rentang Waktu',
